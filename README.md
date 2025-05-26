@@ -1,5 +1,14 @@
 <h1 align="center">SMM Panel Bulk Action Bot</h1>
 
+## Project Overview:
+This project automates bulk social media actions—like likes, follows, shares, and posts—on platforms like Twitter and Facebook, tailored for those running SMM panels or digital marketing resellers. It tackles the biggest pain points in SMM automation: maintaining account integrity, bypassing platform rate limits, and handling thousands of requests without triggering bans.
+
+
+## Core Features:
+- **Reliable Order Fulfillment** — Runs 24/7 with error-recovery and retry logic to ensure high success rates for every bulk task.
+- **Stealth Mode Enabled** — Fingerprint spoofing, residential proxies, and random action timing keep automation under the radar.
+- **Scalable to 250+ Accounts** — Easily manage massive operations with concurrent session handling and multi-threaded task execution.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -63,14 +72,6 @@
 
 <div align="left">
 
-## Project Overview:
-This project automates bulk social media actions—like likes, follows, shares, and posts—on platforms like Twitter and Facebook, tailored for those running SMM panels or digital marketing resellers. It tackles the biggest pain points in SMM automation: maintaining account integrity, bypassing platform rate limits, and handling thousands of requests without triggering bans.
-
-
-## Core Features:
-- **Reliable Order Fulfillment** — Runs 24/7 with error-recovery and retry logic to ensure high success rates for every bulk task.
-- **Stealth Mode Enabled** — Fingerprint spoofing, residential proxies, and random action timing keep automation under the radar.
-- **Scalable to 250+ Accounts** — Easily manage massive operations with concurrent session handling and multi-threaded task execution.
 
 ## Features List:
 | Feature                 | Description                                                              |
